@@ -1,0 +1,14 @@
+.block {
+
+    background-color: yellow;
+    width: 200px;
+}
+.block.block-centre {
+margin: 0 auto;
+}
+.block.block-left {
+margin-left: auto;
+}
+.block.block-right {
+margin-right: auto;
+}
